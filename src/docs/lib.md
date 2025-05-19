@@ -1,4 +1,3 @@
-# depasswd
 This stateless password manager can derive passwords from master password
 and other variables.
 
@@ -59,3 +58,7 @@ the source code carefully. I do not plan to distribute it as binary so you have 
 
 I want to keep this app as simple and easy to understand as possible so I try to avoid adding too much
 more functionality to it. There are many other stateless password managers with more functionality.
+
+
+
+

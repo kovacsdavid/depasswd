@@ -1,0 +1,13 @@
+[package]
+name = "depasswd"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+argon2 = { version = "0.5.3", features = ["std"] }
+base64 = "0.22.1"
+dialoguer = "0.11.0"
+hmac = "0.12.1"
+sha2 = "0.10.9"
+thiserror = "2.0.12"
